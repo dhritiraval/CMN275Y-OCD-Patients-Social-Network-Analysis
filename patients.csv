@@ -1,0 +1,1501 @@
+Patient_ID,Age,Gender,Prev_Diag,Medications
+1018,32,Female,MDD,SNRI
+2406,69,Male,None,SSRI
+1188,57,Male,MDD,Benzodiazepine
+6200,27,Female,PTSD,SSRI
+5824,56,Female,PTSD,None
+6946,32,Female,GAD,SSRI
+9861,38,Female,MDD,SNRI
+8396,57,Male,PTSD,SSRI
+9039,36,Male,None,None
+1580,72,Female,GAD,Benzodiazepine
+9672,21,Female,GAD,None
+7905,73,Female,GAD,Benzodiazepine
+6237,23,Female,Panic Disorder,None
+4456,68,Female,MDD,SSRI
+9678,48,Female,MDD,SNRI
+8070,29,Male,PTSD,SSRI
+5003,25,Male,Panic Disorder,SSRI
+7251,55,Female,None,Benzodiazepine
+8271,50,Female,None,None
+2637,66,Female,Panic Disorder,SNRI
+6778,27,Male,PTSD,Benzodiazepine
+9354,62,Male,PTSD,SNRI
+1022,28,Male,PTSD,SNRI
+8818,43,Male,GAD,Benzodiazepine
+3552,21,Female,Panic Disorder,Benzodiazepine
+4560,55,Female,MDD,SSRI
+5366,47,Male,GAD,None
+8106,74,Male,GAD,None
+1213,60,Male,MDD,SSRI
+7992,28,Male,GAD,Benzodiazepine
+9536,22,Female,Panic Disorder,Benzodiazepine
+6831,28,Male,Panic Disorder,None
+4055,24,Male,Panic Disorder,Benzodiazepine
+7299,48,Male,None,SNRI
+2560,56,Male,None,None
+2995,73,Female,Panic Disorder,SNRI
+1356,70,Female,Panic Disorder,None
+2955,33,Male,Panic Disorder,None
+7042,41,Female,None,Benzodiazepine
+5868,58,Female,PTSD,SSRI
+9468,65,Female,PTSD,SSRI
+1660,58,Male,GAD,Benzodiazepine
+5148,49,Female,MDD,Benzodiazepine
+7919,69,Female,Panic Disorder,None
+7493,37,Male,MDD,SSRI
+9527,22,Male,None,SSRI
+2164,63,Male,MDD,Benzodiazepine
+5092,46,Female,MDD,Benzodiazepine
+2169,31,Female,MDD,None
+9633,72,Male,MDD,SNRI
+2425,64,Female,MDD,SNRI
+8798,28,Female,PTSD,SNRI
+2845,49,Male,MDD,Benzodiazepine
+1340,54,Female,None,Benzodiazepine
+8432,49,Male,Panic Disorder,None
+2947,61,Female,MDD,SSRI
+1698,49,Female,GAD,Benzodiazepine
+7562,25,Male,Panic Disorder,SSRI
+1452,38,Female,PTSD,Benzodiazepine
+8419,19,Male,None,SNRI
+3816,43,Male,Panic Disorder,Benzodiazepine
+8024,71,Female,MDD,SNRI
+1072,23,Male,None,SNRI
+3465,31,Male,None,SSRI
+4205,55,Male,MDD,SNRI
+5376,31,Male,PTSD,SNRI
+9497,53,Male,MDD,SSRI
+9615,28,Male,Panic Disorder,SNRI
+4850,23,Female,MDD,Benzodiazepine
+6112,23,Female,Panic Disorder,SNRI
+7787,24,Female,MDD,Benzodiazepine
+5730,31,Female,PTSD,SSRI
+6222,38,Male,None,SSRI
+6219,50,Female,GAD,Benzodiazepine
+8450,52,Male,GAD,Benzodiazepine
+5733,49,Female,GAD,SNRI
+1538,27,Female,Panic Disorder,SNRI
+6514,49,Female,None,Benzodiazepine
+4884,56,Male,None,None
+7430,54,Female,MDD,SNRI
+7492,61,Male,None,Benzodiazepine
+4022,32,Female,PTSD,None
+1840,56,Male,GAD,SNRI
+4652,35,Female,MDD,None
+5525,51,Male,MDD,SSRI
+1288,59,Male,MDD,None
+7362,42,Female,MDD,SNRI
+2520,29,Female,PTSD,None
+8234,61,Male,None,SNRI
+3467,40,Male,Panic Disorder,SNRI
+2839,39,Male,GAD,None
+9814,47,Male,None,SNRI
+3269,22,Female,None,SNRI
+7013,73,Female,MDD,SNRI
+4933,38,Male,None,None
+7683,69,Female,PTSD,SSRI
+3564,66,Male,PTSD,Benzodiazepine
+5606,26,Female,Panic Disorder,None
+2349,22,Male,MDD,SSRI
+6251,49,Male,GAD,SSRI
+6043,66,Male,None,Benzodiazepine
+9037,55,Male,Panic Disorder,SNRI
+7382,57,Male,None,SNRI
+7695,49,Male,Panic Disorder,Benzodiazepine
+3378,46,Male,None,Benzodiazepine
+5759,26,Male,GAD,None
+3476,47,Female,GAD,Benzodiazepine
+4028,56,Female,Panic Disorder,SSRI
+2566,23,Female,MDD,SSRI
+4658,23,Female,GAD,None
+4618,75,Male,GAD,SSRI
+6545,72,Female,PTSD,Benzodiazepine
+4696,70,Male,GAD,None
+3184,73,Male,GAD,SSRI
+5584,58,Male,GAD,SNRI
+6696,50,Male,GAD,SNRI
+2321,29,Female,GAD,SSRI
+1289,67,Female,Panic Disorder,None
+4112,19,Male,Panic Disorder,Benzodiazepine
+8701,47,Male,GAD,SSRI
+2504,69,Female,PTSD,SNRI
+5453,35,Male,PTSD,Benzodiazepine
+6211,22,Female,None,SSRI
+4822,62,Male,PTSD,Benzodiazepine
+9909,21,Female,Panic Disorder,SSRI
+3538,72,Female,None,SNRI
+7806,43,Female,GAD,SNRI
+3516,29,Male,GAD,SNRI
+7351,38,Male,Panic Disorder,SNRI
+4584,55,Male,Panic Disorder,None
+7053,32,Male,GAD,SSRI
+4086,57,Female,GAD,SNRI
+3376,70,Male,MDD,None
+9515,43,Female,PTSD,SNRI
+9940,35,Female,PTSD,Benzodiazepine
+3728,43,Female,Panic Disorder,SNRI
+1586,51,Male,GAD,SSRI
+8470,32,Male,Panic Disorder,SSRI
+4315,34,Female,PTSD,SNRI
+9510,56,Male,PTSD,Benzodiazepine
+4774,71,Male,MDD,Benzodiazepine
+3462,69,Male,MDD,SNRI
+2860,18,Male,None,SSRI
+4884,21,Female,None,None
+1083,60,Female,Panic Disorder,None
+9520,75,Male,MDD,SNRI
+7966,43,Male,Panic Disorder,SNRI
+4418,45,Male,PTSD,None
+7310,59,Female,GAD,None
+9423,26,Female,None,SNRI
+7092,47,Male,MDD,SSRI
+3383,55,Female,PTSD,SSRI
+5683,67,Female,MDD,Benzodiazepine
+5726,44,Male,PTSD,None
+6774,70,Female,Panic Disorder,None
+8815,75,Female,None,None
+4611,21,Male,PTSD,None
+4663,24,Female,PTSD,SSRI
+7285,42,Male,GAD,Benzodiazepine
+1816,75,Female,MDD,None
+4962,52,Male,PTSD,SSRI
+7679,39,Male,PTSD,Benzodiazepine
+1190,23,Male,None,SSRI
+8679,61,Male,Panic Disorder,None
+4661,57,Female,PTSD,SSRI
+7662,50,Male,Panic Disorder,Benzodiazepine
+4622,45,Female,Panic Disorder,SNRI
+9748,38,Female,Panic Disorder,None
+3449,31,Male,GAD,None
+4510,50,Male,MDD,None
+3525,73,Male,GAD,None
+4877,72,Male,None,SNRI
+3178,43,Male,GAD,SSRI
+7307,70,Male,PTSD,None
+3604,40,Male,None,SSRI
+6166,49,Male,MDD,None
+3846,27,Male,GAD,Benzodiazepine
+8576,28,Male,Panic Disorder,None
+2615,66,Female,PTSD,None
+4069,53,Male,MDD,None
+2623,38,Female,Panic Disorder,SNRI
+8599,62,Female,Panic Disorder,SSRI
+4843,22,Male,PTSD,Benzodiazepine
+1959,68,Male,PTSD,SNRI
+7900,37,Female,PTSD,SSRI
+2968,22,Female,PTSD,None
+6919,59,Male,GAD,SNRI
+5980,21,Male,Panic Disorder,None
+4709,52,Female,GAD,None
+3324,67,Male,MDD,SSRI
+2951,28,Female,None,None
+5794,18,Male,None,SNRI
+3587,62,Male,MDD,SNRI
+9052,33,Female,GAD,None
+8255,35,Female,PTSD,None
+5027,36,Female,Panic Disorder,Benzodiazepine
+8836,42,Male,PTSD,Benzodiazepine
+8827,36,Male,Panic Disorder,None
+3058,70,Female,GAD,SSRI
+1056,22,Male,PTSD,SSRI
+6635,52,Male,MDD,SNRI
+5623,53,Male,None,SSRI
+8694,66,Male,MDD,SSRI
+4082,23,Male,MDD,Benzodiazepine
+7313,73,Female,PTSD,SNRI
+7555,44,Female,GAD,None
+5789,27,Male,PTSD,None
+7426,70,Male,PTSD,Benzodiazepine
+4334,31,Female,MDD,None
+1018,73,Female,Panic Disorder,SNRI
+1885,40,Female,GAD,SNRI
+8610,26,Male,MDD,SSRI
+2856,60,Male,MDD,SSRI
+9937,27,Male,MDD,None
+6767,73,Female,None,SSRI
+3340,59,Female,None,None
+1185,28,Female,PTSD,Benzodiazepine
+2410,28,Male,GAD,Benzodiazepine
+9458,67,Female,Panic Disorder,Benzodiazepine
+7690,62,Male,MDD,SNRI
+9123,27,Male,Panic Disorder,SSRI
+5991,61,Male,PTSD,SNRI
+5837,51,Female,GAD,SNRI
+3262,55,Male,Panic Disorder,SNRI
+9360,36,Female,MDD,Benzodiazepine
+9507,67,Female,None,SNRI
+5695,39,Male,None,Benzodiazepine
+1478,20,Male,MDD,SNRI
+4269,43,Female,PTSD,Benzodiazepine
+9192,48,Male,Panic Disorder,SSRI
+4443,37,Male,None,SSRI
+7408,42,Female,Panic Disorder,SSRI
+3693,29,Male,Panic Disorder,None
+4240,70,Male,PTSD,None
+9711,61,Male,PTSD,Benzodiazepine
+4940,66,Female,None,SNRI
+9812,36,Male,None,Benzodiazepine
+8143,59,Female,Panic Disorder,SNRI
+3321,51,Female,MDD,None
+9834,43,Male,GAD,SNRI
+5874,60,Male,Panic Disorder,None
+5914,55,Female,MDD,SSRI
+1163,27,Female,PTSD,SNRI
+5045,60,Male,Panic Disorder,None
+4290,73,Female,GAD,Benzodiazepine
+3695,26,Male,Panic Disorder,None
+3227,36,Female,PTSD,Benzodiazepine
+8709,36,Female,MDD,SNRI
+1913,69,Female,Panic Disorder,SNRI
+6919,20,Female,MDD,Benzodiazepine
+9831,28,Female,Panic Disorder,Benzodiazepine
+8563,53,Male,Panic Disorder,SSRI
+7877,39,Male,Panic Disorder,None
+7794,19,Female,PTSD,SSRI
+7014,58,Female,PTSD,SNRI
+2337,69,Female,Panic Disorder,SNRI
+3847,19,Female,None,SSRI
+8379,36,Male,MDD,None
+4372,64,Female,MDD,Benzodiazepine
+5726,64,Female,MDD,SNRI
+3002,35,Female,GAD,None
+8673,75,Female,Panic Disorder,SSRI
+2190,34,Male,GAD,None
+6541,30,Male,Panic Disorder,SNRI
+2304,50,Female,MDD,Benzodiazepine
+9715,56,Male,GAD,SNRI
+8672,40,Male,Panic Disorder,SSRI
+2923,59,Female,Panic Disorder,SSRI
+1402,64,Female,MDD,SSRI
+6195,61,Female,MDD,Benzodiazepine
+2985,31,Female,Panic Disorder,None
+2085,56,Female,GAD,SNRI
+5108,30,Female,MDD,SNRI
+2673,38,Female,MDD,None
+7236,40,Female,GAD,None
+8990,71,Male,Panic Disorder,SNRI
+5164,74,Male,PTSD,None
+3303,22,Female,None,SNRI
+9560,75,Female,GAD,Benzodiazepine
+8303,25,Female,Panic Disorder,SNRI
+8925,68,Female,GAD,None
+2786,75,Female,PTSD,SNRI
+5983,39,Male,MDD,SNRI
+8702,61,Male,GAD,SSRI
+7906,27,Male,GAD,SNRI
+2249,60,Female,MDD,None
+5426,30,Male,GAD,SSRI
+9198,44,Female,MDD,None
+3415,50,Male,None,SNRI
+4816,59,Male,PTSD,Benzodiazepine
+3156,20,Female,GAD,SNRI
+5609,37,Male,Panic Disorder,None
+5423,61,Female,PTSD,SNRI
+5975,41,Female,GAD,Benzodiazepine
+1042,49,Male,None,None
+8504,73,Male,MDD,SNRI
+1876,26,Female,PTSD,None
+9201,38,Female,PTSD,Benzodiazepine
+6615,63,Male,MDD,SNRI
+4084,64,Male,GAD,SSRI
+5144,55,Female,Panic Disorder,None
+3708,45,Female,None,SSRI
+8530,68,Female,PTSD,None
+8141,46,Female,GAD,None
+4830,32,Female,PTSD,SSRI
+9405,74,Male,GAD,SNRI
+8305,27,Female,Panic Disorder,SSRI
+6587,45,Female,PTSD,SSRI
+8996,44,Female,Panic Disorder,None
+5890,59,Female,GAD,SNRI
+2810,58,Male,MDD,Benzodiazepine
+9908,48,Male,GAD,SNRI
+5927,73,Female,PTSD,None
+5476,63,Male,Panic Disorder,None
+5226,59,Male,Panic Disorder,Benzodiazepine
+8061,54,Male,PTSD,Benzodiazepine
+9649,26,Female,GAD,SSRI
+7070,27,Male,GAD,Benzodiazepine
+2967,54,Female,None,None
+6207,73,Female,None,SNRI
+1073,47,Male,MDD,Benzodiazepine
+2115,50,Male,None,Benzodiazepine
+7120,37,Male,GAD,Benzodiazepine
+9947,51,Male,MDD,None
+9431,27,Female,MDD,SSRI
+5786,59,Female,None,SNRI
+8046,24,Male,PTSD,None
+8516,38,Male,Panic Disorder,None
+3397,28,Male,GAD,SNRI
+1277,23,Female,MDD,None
+1627,46,Female,MDD,None
+5349,58,Female,MDD,Benzodiazepine
+2354,59,Male,GAD,Benzodiazepine
+7148,43,Female,None,SSRI
+7802,62,Male,MDD,Benzodiazepine
+2759,69,Female,GAD,None
+2468,43,Male,GAD,SNRI
+9904,69,Male,MDD,None
+7113,32,Male,MDD,Benzodiazepine
+9331,28,Female,MDD,None
+4049,43,Male,PTSD,SSRI
+9990,75,Male,MDD,SNRI
+9376,43,Female,None,None
+6403,20,Male,PTSD,SSRI
+7005,27,Male,None,SSRI
+7911,31,Male,Panic Disorder,SNRI
+8894,59,Male,PTSD,Benzodiazepine
+3919,74,Female,None,SSRI
+6966,75,Female,None,SSRI
+7474,72,Female,MDD,Benzodiazepine
+1504,27,Female,MDD,None
+2447,54,Male,Panic Disorder,Benzodiazepine
+8146,72,Female,PTSD,SNRI
+1047,66,Female,MDD,Benzodiazepine
+4061,61,Female,PTSD,SNRI
+4890,33,Female,MDD,Benzodiazepine
+9016,72,Male,None,Benzodiazepine
+3679,68,Female,MDD,Benzodiazepine
+7218,74,Female,MDD,None
+9797,31,Female,PTSD,None
+1183,53,Female,None,SSRI
+3142,72,Female,Panic Disorder,None
+9689,53,Male,PTSD,SNRI
+6493,48,Female,GAD,SNRI
+8568,40,Male,PTSD,SNRI
+8984,40,Male,GAD,Benzodiazepine
+7645,50,Female,Panic Disorder,None
+5042,53,Male,MDD,Benzodiazepine
+9317,74,Male,PTSD,SSRI
+2712,62,Male,Panic Disorder,SSRI
+6937,69,Male,Panic Disorder,SNRI
+4758,35,Male,MDD,SSRI
+8479,46,Male,None,SNRI
+7837,29,Male,PTSD,SSRI
+2156,33,Female,PTSD,SNRI
+7352,35,Female,GAD,Benzodiazepine
+5015,68,Male,GAD,SNRI
+7723,50,Female,Panic Disorder,SSRI
+1138,63,Female,None,SNRI
+7413,75,Male,GAD,Benzodiazepine
+9444,50,Female,PTSD,Benzodiazepine
+7291,49,Female,Panic Disorder,Benzodiazepine
+3979,54,Female,GAD,SSRI
+1562,36,Male,PTSD,None
+9912,67,Male,MDD,Benzodiazepine
+2593,50,Male,None,Benzodiazepine
+8147,43,Female,PTSD,Benzodiazepine
+3021,43,Female,Panic Disorder,SNRI
+1721,51,Female,GAD,SSRI
+3313,49,Female,MDD,SSRI
+2803,46,Female,Panic Disorder,Benzodiazepine
+2613,70,Male,MDD,SSRI
+4692,54,Male,Panic Disorder,None
+2392,51,Male,PTSD,SSRI
+5590,72,Female,None,Benzodiazepine
+8912,49,Female,None,SNRI
+9874,53,Female,GAD,None
+9001,57,Male,GAD,SNRI
+5333,44,Male,GAD,None
+1729,27,Male,PTSD,SSRI
+3355,34,Female,PTSD,SNRI
+4500,25,Female,Panic Disorder,None
+7548,72,Male,PTSD,None
+3727,34,Female,PTSD,None
+7438,58,Female,Panic Disorder,None
+1110,34,Male,MDD,SSRI
+3880,57,Female,GAD,SSRI
+5679,73,Male,MDD,None
+8880,69,Female,None,SSRI
+8529,54,Male,None,None
+3191,67,Male,GAD,SNRI
+6758,65,Male,PTSD,Benzodiazepine
+6525,71,Female,Panic Disorder,SNRI
+7253,43,Female,Panic Disorder,SNRI
+7272,23,Female,Panic Disorder,SSRI
+6693,67,Female,PTSD,Benzodiazepine
+4636,62,Male,None,Benzodiazepine
+1541,26,Female,MDD,SSRI
+1779,54,Male,GAD,SSRI
+6695,43,Male,MDD,SSRI
+9407,59,Female,None,SSRI
+8870,57,Male,MDD,SNRI
+7287,52,Female,None,Benzodiazepine
+2138,32,Male,PTSD,Benzodiazepine
+9958,28,Female,MDD,SNRI
+7278,36,Female,Panic Disorder,SNRI
+3654,33,Male,None,Benzodiazepine
+8937,48,Male,GAD,None
+6856,53,Male,Panic Disorder,None
+2000,72,Male,MDD,Benzodiazepine
+3727,41,Male,PTSD,Benzodiazepine
+3235,40,Female,Panic Disorder,SNRI
+8333,20,Female,GAD,Benzodiazepine
+1194,75,Male,None,None
+7854,55,Female,PTSD,Benzodiazepine
+2989,59,Male,Panic Disorder,SNRI
+1645,23,Male,PTSD,SSRI
+7465,64,Male,MDD,SNRI
+7138,71,Female,GAD,SNRI
+6480,38,Male,MDD,None
+8076,28,Male,MDD,SNRI
+6128,61,Female,PTSD,SNRI
+5409,34,Female,MDD,Benzodiazepine
+6558,52,Male,None,Benzodiazepine
+3117,39,Female,MDD,None
+9951,74,Male,MDD,SNRI
+2240,25,Male,MDD,SNRI
+5781,36,Female,Panic Disorder,None
+1854,72,Female,Panic Disorder,SSRI
+4575,35,Female,Panic Disorder,SSRI
+2277,72,Male,MDD,Benzodiazepine
+6564,34,Female,MDD,None
+9342,70,Female,PTSD,None
+6487,19,Female,MDD,SNRI
+5857,25,Male,MDD,Benzodiazepine
+8179,29,Male,PTSD,SNRI
+8257,46,Female,PTSD,SNRI
+4880,70,Female,GAD,Benzodiazepine
+3197,51,Female,Panic Disorder,None
+3074,36,Female,GAD,None
+4326,43,Male,Panic Disorder,Benzodiazepine
+6030,39,Male,MDD,None
+6405,66,Female,MDD,None
+1466,54,Female,Panic Disorder,None
+1217,65,Male,MDD,SNRI
+6790,48,Male,Panic Disorder,SSRI
+9256,35,Male,Panic Disorder,SSRI
+3904,19,Female,None,SNRI
+2227,22,Male,GAD,SNRI
+4458,31,Female,PTSD,None
+4437,27,Male,PTSD,SNRI
+6839,38,Female,PTSD,None
+8699,45,Male,PTSD,None
+2429,29,Male,Panic Disorder,Benzodiazepine
+9756,25,Male,GAD,None
+2074,66,Male,MDD,Benzodiazepine
+5468,39,Female,Panic Disorder,Benzodiazepine
+3986,67,Female,GAD,SSRI
+9883,31,Male,MDD,SNRI
+7332,47,Female,GAD,Benzodiazepine
+4010,19,Male,PTSD,Benzodiazepine
+7007,54,Female,GAD,SSRI
+4250,20,Male,PTSD,None
+5987,68,Male,None,Benzodiazepine
+9877,49,Female,MDD,Benzodiazepine
+6053,36,Female,GAD,None
+5257,63,Female,GAD,None
+7753,64,Male,GAD,SNRI
+3515,52,Male,MDD,SSRI
+2856,68,Female,MDD,None
+1950,27,Female,MDD,None
+3722,71,Female,GAD,SSRI
+9845,49,Female,Panic Disorder,None
+1881,48,Female,MDD,SNRI
+5738,43,Female,None,Benzodiazepine
+6915,57,Male,PTSD,SNRI
+3268,64,Male,PTSD,None
+6872,75,Female,MDD,Benzodiazepine
+9248,61,Male,Panic Disorder,None
+4919,67,Female,GAD,SNRI
+5459,34,Female,MDD,Benzodiazepine
+6855,70,Female,MDD,SSRI
+3322,70,Female,GAD,SNRI
+6233,18,Female,None,SSRI
+1593,69,Female,PTSD,None
+6129,65,Male,PTSD,SSRI
+2790,37,Female,Panic Disorder,SSRI
+4964,49,Male,MDD,Benzodiazepine
+1161,72,Female,GAD,None
+3773,30,Female,None,None
+6729,33,Male,None,Benzodiazepine
+1031,42,Female,Panic Disorder,None
+9637,23,Male,GAD,SSRI
+1897,43,Female,PTSD,Benzodiazepine
+6053,46,Female,MDD,Benzodiazepine
+5259,57,Female,None,Benzodiazepine
+7175,24,Female,GAD,SSRI
+5542,32,Female,PTSD,Benzodiazepine
+3246,68,Male,GAD,None
+7818,75,Male,PTSD,Benzodiazepine
+8521,49,Female,PTSD,None
+7167,24,Female,GAD,Benzodiazepine
+1059,60,Female,Panic Disorder,SSRI
+8046,55,Female,None,SNRI
+5005,70,Male,None,SSRI
+2802,72,Female,Panic Disorder,Benzodiazepine
+7229,74,Male,MDD,SSRI
+5246,57,Female,MDD,Benzodiazepine
+8873,31,Male,Panic Disorder,SNRI
+1848,60,Male,GAD,SNRI
+6223,60,Female,PTSD,None
+1748,30,Female,GAD,SSRI
+7473,67,Female,None,SSRI
+2696,29,Female,Panic Disorder,Benzodiazepine
+8808,21,Female,None,SNRI
+1483,62,Female,None,SNRI
+1308,32,Female,MDD,SNRI
+5559,74,Male,MDD,None
+5457,70,Female,MDD,Benzodiazepine
+2903,68,Female,Panic Disorder,Benzodiazepine
+7009,53,Female,GAD,SNRI
+3035,74,Female,Panic Disorder,Benzodiazepine
+9175,50,Female,Panic Disorder,SSRI
+1032,22,Male,MDD,Benzodiazepine
+7932,26,Female,PTSD,None
+9110,26,Male,None,None
+3823,37,Female,None,None
+4972,55,Male,GAD,None
+5375,64,Female,None,Benzodiazepine
+1658,37,Male,Panic Disorder,SSRI
+1784,48,Male,MDD,Benzodiazepine
+5981,45,Female,MDD,SNRI
+5110,52,Female,Panic Disorder,SSRI
+3647,75,Female,MDD,None
+7123,26,Male,Panic Disorder,None
+7679,44,Female,PTSD,Benzodiazepine
+2594,34,Female,PTSD,SNRI
+6527,49,Female,MDD,None
+7690,60,Male,PTSD,SSRI
+5445,26,Female,GAD,SSRI
+6660,75,Male,GAD,SNRI
+7376,26,Male,None,None
+7759,61,Male,MDD,Benzodiazepine
+2747,58,Male,MDD,None
+3007,49,Male,MDD,None
+5206,72,Female,Panic Disorder,Benzodiazepine
+6344,43,Male,Panic Disorder,None
+9213,24,Female,None,SSRI
+5322,41,Male,MDD,SSRI
+2547,28,Female,MDD,SSRI
+1370,74,Female,None,SSRI
+6673,50,Male,None,SSRI
+3642,58,Male,Panic Disorder,None
+9995,59,Male,MDD,SSRI
+3396,51,Female,Panic Disorder,SSRI
+5869,55,Male,Panic Disorder,Benzodiazepine
+6855,19,Male,None,SNRI
+5968,30,Male,MDD,SNRI
+5712,37,Female,GAD,SSRI
+2101,53,Male,MDD,Benzodiazepine
+3680,52,Male,PTSD,Benzodiazepine
+4171,24,Male,MDD,SSRI
+8820,67,Male,PTSD,SNRI
+7988,51,Male,None,Benzodiazepine
+9431,27,Female,GAD,None
+9516,48,Male,GAD,SNRI
+5937,44,Male,None,Benzodiazepine
+6628,40,Male,MDD,None
+3199,46,Female,None,None
+2946,30,Male,Panic Disorder,Benzodiazepine
+8708,44,Female,MDD,SNRI
+8571,41,Female,Panic Disorder,SSRI
+7938,35,Female,PTSD,Benzodiazepine
+8296,26,Male,MDD,SNRI
+7430,37,Female,Panic Disorder,None
+4862,62,Female,GAD,None
+1815,31,Female,None,Benzodiazepine
+3994,29,Female,MDD,None
+4645,71,Male,GAD,None
+9435,37,Male,PTSD,SNRI
+1404,60,Male,None,None
+2255,25,Female,GAD,None
+1637,56,Male,MDD,SSRI
+5772,66,Female,GAD,None
+2687,47,Male,Panic Disorder,None
+5203,35,Male,GAD,SNRI
+7822,66,Female,PTSD,Benzodiazepine
+7531,69,Male,Panic Disorder,Benzodiazepine
+1482,48,Male,MDD,SNRI
+9328,74,Female,GAD,SSRI
+8042,50,Male,Panic Disorder,SNRI
+4940,25,Female,MDD,Benzodiazepine
+4237,35,Male,PTSD,SSRI
+9057,64,Male,None,SSRI
+4993,70,Male,None,None
+5182,55,Male,GAD,SSRI
+3863,22,Female,GAD,None
+4897,25,Female,GAD,None
+8971,69,Female,GAD,SNRI
+8794,56,Male,PTSD,None
+8806,29,Male,MDD,Benzodiazepine
+8520,32,Female,PTSD,SSRI
+8596,64,Male,GAD,None
+4259,58,Female,Panic Disorder,SNRI
+6308,66,Male,Panic Disorder,SSRI
+8134,46,Female,MDD,SSRI
+3684,25,Male,None,Benzodiazepine
+6791,27,Male,Panic Disorder,SNRI
+4630,29,Female,GAD,Benzodiazepine
+6304,32,Male,PTSD,SSRI
+6397,30,Female,None,SNRI
+5955,20,Female,GAD,SNRI
+2874,43,Female,PTSD,None
+7559,74,Female,MDD,None
+4900,54,Female,PTSD,SNRI
+7284,63,Female,GAD,Benzodiazepine
+8365,40,Male,Panic Disorder,SSRI
+3746,38,Female,None,Benzodiazepine
+7888,36,Male,GAD,SSRI
+7743,63,Male,Panic Disorder,SNRI
+8351,74,Female,Panic Disorder,Benzodiazepine
+2538,18,Male,MDD,Benzodiazepine
+5911,51,Female,None,None
+4381,60,Male,MDD,SNRI
+6403,27,Female,MDD,None
+1352,46,Male,PTSD,SNRI
+4360,35,Female,MDD,None
+6024,64,Female,PTSD,SSRI
+5033,44,Male,MDD,Benzodiazepine
+8294,70,Male,PTSD,SSRI
+2895,26,Male,GAD,SSRI
+4256,70,Male,Panic Disorder,Benzodiazepine
+6239,33,Female,PTSD,None
+4371,42,Female,GAD,None
+1416,31,Male,MDD,SNRI
+2679,66,Male,None,Benzodiazepine
+5176,23,Male,GAD,Benzodiazepine
+8328,49,Male,GAD,SNRI
+9431,50,Female,MDD,SNRI
+5380,36,Female,GAD,Benzodiazepine
+2946,32,Male,MDD,SNRI
+8051,31,Female,MDD,Benzodiazepine
+6321,50,Female,Panic Disorder,Benzodiazepine
+4884,70,Female,MDD,None
+9468,25,Male,Panic Disorder,None
+5208,68,Female,None,SSRI
+7795,21,Male,Panic Disorder,None
+8827,57,Male,PTSD,None
+8535,73,Female,GAD,SNRI
+8072,62,Male,MDD,SSRI
+1528,18,Male,GAD,Benzodiazepine
+1536,61,Male,None,None
+1349,52,Female,PTSD,SSRI
+8582,19,Male,None,Benzodiazepine
+9751,41,Male,GAD,None
+2200,27,Male,MDD,None
+8643,30,Male,GAD,Benzodiazepine
+3597,30,Female,PTSD,None
+6153,51,Male,GAD,SSRI
+3386,58,Male,GAD,None
+9653,30,Male,MDD,Benzodiazepine
+1951,22,Female,PTSD,SSRI
+7070,44,Male,None,None
+3073,55,Male,PTSD,Benzodiazepine
+7826,46,Male,None,Benzodiazepine
+2369,54,Female,None,None
+7294,64,Female,Panic Disorder,SNRI
+8154,59,Female,Panic Disorder,Benzodiazepine
+9970,35,Female,Panic Disorder,SSRI
+6228,71,Male,None,None
+7058,74,Female,Panic Disorder,None
+8798,24,Female,PTSD,None
+7794,43,Female,Panic Disorder,SNRI
+1845,33,Male,GAD,SNRI
+4375,49,Male,GAD,SSRI
+1155,30,Female,None,None
+2101,58,Female,None,SSRI
+5729,52,Male,None,SSRI
+7796,24,Male,MDD,Benzodiazepine
+5834,19,Female,PTSD,SNRI
+4598,41,Male,GAD,SNRI
+4469,19,Female,PTSD,SNRI
+8880,59,Male,Panic Disorder,SNRI
+3413,71,Male,MDD,SSRI
+6236,41,Male,PTSD,SNRI
+6689,35,Male,MDD,SSRI
+4234,73,Female,GAD,Benzodiazepine
+9782,65,Female,MDD,SNRI
+8605,26,Male,GAD,Benzodiazepine
+5240,37,Female,PTSD,SNRI
+8758,71,Male,GAD,None
+3212,51,Male,PTSD,None
+6643,26,Male,PTSD,SNRI
+9762,75,Male,MDD,SNRI
+3975,36,Female,PTSD,SSRI
+4108,30,Female,None,SNRI
+3018,31,Female,GAD,SSRI
+8204,38,Female,None,Benzodiazepine
+9083,18,Male,PTSD,SNRI
+2859,27,Male,GAD,SNRI
+3430,56,Male,PTSD,None
+4399,31,Male,PTSD,None
+1548,30,Female,MDD,SSRI
+5808,30,Male,Panic Disorder,None
+3298,50,Male,None,SNRI
+2689,53,Female,PTSD,Benzodiazepine
+7379,52,Female,GAD,Benzodiazepine
+1380,40,Male,MDD,Benzodiazepine
+1445,35,Male,Panic Disorder,SNRI
+4700,68,Female,PTSD,SSRI
+1552,50,Male,MDD,SSRI
+8979,34,Female,PTSD,SSRI
+2307,64,Female,PTSD,None
+5242,39,Male,MDD,SNRI
+1641,71,Female,Panic Disorder,SNRI
+1753,43,Female,GAD,None
+6778,51,Female,MDD,Benzodiazepine
+4846,30,Female,Panic Disorder,SNRI
+4088,37,Male,GAD,SSRI
+2617,37,Male,PTSD,SNRI
+9031,67,Female,MDD,SNRI
+6715,43,Female,None,None
+7368,60,Male,GAD,SSRI
+8934,52,Female,Panic Disorder,Benzodiazepine
+6047,67,Female,GAD,SSRI
+5013,73,Male,None,SNRI
+5615,32,Male,None,SSRI
+5137,30,Female,PTSD,Benzodiazepine
+3239,27,Female,PTSD,SNRI
+6574,32,Male,Panic Disorder,SSRI
+9007,60,Male,Panic Disorder,None
+8941,50,Female,None,Benzodiazepine
+5130,70,Male,MDD,None
+1413,58,Male,PTSD,Benzodiazepine
+4136,44,Male,None,SSRI
+6338,56,Male,MDD,SNRI
+1245,55,Female,None,SNRI
+2230,44,Male,Panic Disorder,SNRI
+2649,23,Male,PTSD,None
+1669,66,Female,None,SSRI
+5894,20,Female,Panic Disorder,Benzodiazepine
+7262,59,Female,MDD,SSRI
+8366,67,Female,MDD,SSRI
+5064,43,Female,Panic Disorder,Benzodiazepine
+1242,18,Female,Panic Disorder,Benzodiazepine
+5332,44,Female,PTSD,SSRI
+4439,24,Male,Panic Disorder,SSRI
+8185,59,Male,GAD,None
+2455,57,Female,Panic Disorder,SSRI
+1713,18,Male,PTSD,SSRI
+5791,20,Male,GAD,None
+8867,52,Female,GAD,Benzodiazepine
+3989,70,Male,GAD,SNRI
+7029,41,Male,PTSD,None
+5710,69,Female,Panic Disorder,SSRI
+9043,62,Male,PTSD,Benzodiazepine
+3274,75,Male,PTSD,SSRI
+4688,23,Female,GAD,None
+3235,60,Male,PTSD,SSRI
+4401,18,Female,Panic Disorder,SNRI
+2018,26,Male,MDD,SNRI
+1034,28,Female,MDD,Benzodiazepine
+4718,29,Male,Panic Disorder,None
+8631,33,Female,GAD,SNRI
+6929,36,Male,Panic Disorder,SNRI
+4856,49,Male,PTSD,SNRI
+4787,52,Male,Panic Disorder,SSRI
+9755,52,Female,Panic Disorder,SSRI
+6153,56,Male,GAD,None
+6516,22,Female,GAD,SNRI
+8727,50,Male,Panic Disorder,Benzodiazepine
+1075,63,Male,Panic Disorder,SNRI
+5456,40,Female,None,SNRI
+2790,63,Female,PTSD,None
+4570,48,Female,MDD,SNRI
+5420,69,Male,GAD,SSRI
+5738,71,Female,GAD,SSRI
+7527,62,Male,GAD,Benzodiazepine
+1335,29,Female,GAD,Benzodiazepine
+8378,58,Male,Panic Disorder,Benzodiazepine
+5509,75,Female,MDD,Benzodiazepine
+9115,34,Male,Panic Disorder,Benzodiazepine
+8595,62,Female,GAD,None
+9674,57,Male,MDD,None
+4321,41,Male,None,Benzodiazepine
+3258,56,Female,PTSD,None
+8339,36,Female,MDD,Benzodiazepine
+8056,56,Female,MDD,SSRI
+9877,52,Female,GAD,SNRI
+2019,61,Female,Panic Disorder,None
+3312,70,Female,PTSD,SSRI
+1885,18,Female,PTSD,Benzodiazepine
+6198,66,Male,MDD,SSRI
+5176,30,Male,None,Benzodiazepine
+6195,73,Female,Panic Disorder,Benzodiazepine
+3209,39,Male,None,Benzodiazepine
+5222,52,Female,None,None
+1704,19,Female,Panic Disorder,SSRI
+7255,36,Male,PTSD,SNRI
+8585,51,Female,GAD,SSRI
+6239,27,Female,None,SNRI
+9305,60,Male,Panic Disorder,None
+6432,42,Female,None,SSRI
+4527,21,Female,MDD,SNRI
+3725,44,Male,Panic Disorder,SSRI
+1558,63,Male,GAD,SSRI
+8637,38,Male,GAD,SSRI
+7730,44,Male,PTSD,None
+9061,53,Male,Panic Disorder,Benzodiazepine
+5974,41,Female,Panic Disorder,Benzodiazepine
+2491,45,Male,Panic Disorder,SNRI
+3504,43,Male,Panic Disorder,None
+1886,51,Female,Panic Disorder,Benzodiazepine
+3765,33,Female,GAD,SNRI
+7224,72,Female,PTSD,None
+5778,28,Male,MDD,Benzodiazepine
+9513,57,Male,GAD,SSRI
+3345,31,Male,GAD,SSRI
+5248,64,Female,Panic Disorder,Benzodiazepine
+6155,73,Male,PTSD,Benzodiazepine
+6473,22,Female,None,None
+7110,51,Male,GAD,None
+1816,25,Female,MDD,None
+2586,36,Female,None,SNRI
+2519,65,Female,MDD,Benzodiazepine
+3014,41,Female,PTSD,None
+7622,63,Male,PTSD,None
+7554,22,Male,GAD,Benzodiazepine
+8593,42,Female,MDD,SSRI
+6281,18,Male,MDD,None
+5821,21,Female,PTSD,Benzodiazepine
+3471,66,Female,PTSD,SNRI
+7002,72,Male,GAD,SNRI
+8252,74,Female,Panic Disorder,Benzodiazepine
+1454,63,Male,Panic Disorder,Benzodiazepine
+3516,39,Male,None,SSRI
+8412,66,Female,Panic Disorder,None
+5905,73,Female,GAD,Benzodiazepine
+8899,33,Female,None,SNRI
+1930,71,Male,GAD,None
+2180,55,Male,MDD,SNRI
+8299,61,Female,MDD,None
+2206,49,Female,GAD,Benzodiazepine
+8658,44,Male,MDD,SSRI
+1639,66,Male,Panic Disorder,SNRI
+9885,63,Male,PTSD,SNRI
+1835,71,Male,Panic Disorder,SSRI
+6831,62,Female,MDD,SSRI
+4956,56,Female,MDD,SSRI
+3031,34,Male,None,SNRI
+4014,26,Female,PTSD,SNRI
+9995,23,Male,Panic Disorder,Benzodiazepine
+3828,34,Female,Panic Disorder,SNRI
+8216,48,Male,Panic Disorder,SSRI
+5960,61,Male,MDD,SNRI
+4998,53,Female,Panic Disorder,None
+2078,43,Female,PTSD,None
+4367,37,Male,MDD,None
+8635,70,Female,MDD,None
+6832,32,Female,Panic Disorder,SSRI
+4403,40,Female,Panic Disorder,Benzodiazepine
+6037,69,Male,PTSD,SNRI
+4726,62,Male,Panic Disorder,None
+5358,73,Male,PTSD,SSRI
+6007,57,Female,GAD,None
+7452,40,Male,GAD,SNRI
+5842,65,Female,MDD,None
+2409,73,Male,PTSD,Benzodiazepine
+4017,23,Male,MDD,Benzodiazepine
+6454,47,Female,Panic Disorder,SNRI
+1794,43,Female,PTSD,SNRI
+9196,49,Female,MDD,None
+4449,51,Male,MDD,SNRI
+5968,56,Male,Panic Disorder,Benzodiazepine
+1130,69,Male,MDD,SSRI
+9772,73,Male,MDD,Benzodiazepine
+8289,52,Male,None,SNRI
+6563,29,Female,GAD,SNRI
+9959,74,Male,GAD,SNRI
+1923,59,Male,MDD,Benzodiazepine
+4841,46,Male,None,SSRI
+9755,27,Male,PTSD,Benzodiazepine
+3289,66,Male,None,SNRI
+8097,53,Female,MDD,Benzodiazepine
+5718,23,Female,MDD,SNRI
+1176,67,Male,MDD,Benzodiazepine
+3117,38,Male,PTSD,None
+1489,50,Female,None,SSRI
+9817,40,Male,GAD,SSRI
+2476,45,Male,None,None
+4500,26,Male,GAD,SSRI
+9309,33,Male,PTSD,SNRI
+2215,45,Male,PTSD,Benzodiazepine
+4569,33,Male,GAD,Benzodiazepine
+5383,68,Male,MDD,None
+1885,45,Female,PTSD,SSRI
+1655,39,Female,MDD,SSRI
+4007,29,Male,None,SSRI
+3696,32,Female,Panic Disorder,SNRI
+3284,29,Female,MDD,Benzodiazepine
+4568,39,Male,None,SSRI
+6955,66,Male,MDD,Benzodiazepine
+3323,18,Male,PTSD,SSRI
+4119,29,Male,GAD,SNRI
+6539,25,Male,None,Benzodiazepine
+2600,48,Female,PTSD,SSRI
+5306,72,Male,MDD,SSRI
+8848,74,Male,PTSD,Benzodiazepine
+9525,64,Male,GAD,SNRI
+3789,26,Male,Panic Disorder,None
+7301,44,Female,Panic Disorder,SNRI
+9065,41,Male,GAD,Benzodiazepine
+3502,34,Male,MDD,SNRI
+3113,56,Male,None,Benzodiazepine
+4499,44,Male,MDD,SSRI
+3946,20,Female,GAD,SSRI
+3830,40,Male,MDD,Benzodiazepine
+9910,68,Male,PTSD,SSRI
+6035,19,Female,MDD,None
+6659,58,Female,MDD,SNRI
+8117,29,Male,None,SNRI
+5086,38,Male,None,SNRI
+8800,42,Male,PTSD,None
+4151,74,Male,GAD,None
+3927,28,Male,MDD,None
+8975,55,Male,Panic Disorder,None
+4600,44,Female,PTSD,Benzodiazepine
+7270,32,Male,Panic Disorder,Benzodiazepine
+6073,74,Female,None,None
+3598,19,Male,Panic Disorder,SNRI
+4684,72,Female,None,None
+2443,20,Female,MDD,None
+5808,71,Male,Panic Disorder,SNRI
+2811,49,Female,Panic Disorder,None
+6183,66,Female,PTSD,SNRI
+8549,57,Female,Panic Disorder,SSRI
+1565,71,Female,None,SSRI
+7812,68,Female,None,SSRI
+4099,21,Male,MDD,SSRI
+9896,75,Male,PTSD,Benzodiazepine
+9455,53,Female,None,Benzodiazepine
+4056,44,Male,None,SNRI
+1252,30,Female,MDD,SSRI
+9764,22,Male,PTSD,None
+8689,25,Female,Panic Disorder,Benzodiazepine
+2692,68,Male,PTSD,Benzodiazepine
+8933,19,Female,Panic Disorder,Benzodiazepine
+6571,47,Female,MDD,SSRI
+8241,23,Male,PTSD,Benzodiazepine
+7818,24,Male,None,None
+8226,58,Female,MDD,Benzodiazepine
+4830,62,Female,PTSD,SSRI
+1020,29,Male,MDD,Benzodiazepine
+1171,39,Male,GAD,Benzodiazepine
+7044,34,Male,Panic Disorder,None
+3507,25,Male,GAD,SNRI
+8361,75,Female,MDD,Benzodiazepine
+2967,38,Male,MDD,SNRI
+4855,31,Male,None,Benzodiazepine
+1271,70,Female,Panic Disorder,None
+3940,31,Male,PTSD,Benzodiazepine
+1214,50,Female,MDD,SNRI
+3013,75,Male,PTSD,None
+8724,28,Female,MDD,SSRI
+6605,33,Male,MDD,None
+5272,72,Male,GAD,Benzodiazepine
+9321,31,Male,MDD,Benzodiazepine
+9949,55,Female,MDD,SSRI
+4026,26,Male,PTSD,SNRI
+7478,47,Female,MDD,SSRI
+2644,53,Female,None,None
+7936,57,Female,Panic Disorder,Benzodiazepine
+5475,47,Male,GAD,Benzodiazepine
+6142,33,Male,MDD,Benzodiazepine
+7123,70,Male,MDD,SSRI
+9749,71,Male,GAD,SSRI
+8933,43,Male,MDD,SNRI
+5731,34,Male,MDD,Benzodiazepine
+7904,33,Male,MDD,SNRI
+7862,57,Female,Panic Disorder,SSRI
+4194,70,Female,None,SSRI
+5859,75,Female,PTSD,SSRI
+2364,73,Female,None,SSRI
+5822,37,Female,Panic Disorder,SNRI
+2470,71,Male,None,SSRI
+2917,25,Male,MDD,Benzodiazepine
+5082,28,Male,PTSD,SSRI
+5054,63,Female,GAD,SSRI
+5399,41,Male,Panic Disorder,SSRI
+9528,59,Male,PTSD,None
+1150,26,Male,MDD,SSRI
+8012,30,Male,MDD,None
+4934,44,Male,PTSD,None
+1434,26,Male,MDD,None
+2934,54,Male,GAD,Benzodiazepine
+4571,42,Male,PTSD,None
+7506,54,Male,Panic Disorder,None
+6933,73,Female,Panic Disorder,SSRI
+5293,23,Male,None,Benzodiazepine
+9103,53,Male,Panic Disorder,None
+9181,28,Female,GAD,SNRI
+2298,21,Female,PTSD,SNRI
+8335,42,Male,MDD,None
+1286,19,Female,Panic Disorder,SNRI
+9628,18,Male,Panic Disorder,SSRI
+8510,25,Male,MDD,None
+1955,34,Male,None,Benzodiazepine
+8003,21,Male,MDD,SNRI
+7499,37,Female,PTSD,SNRI
+6489,75,Female,PTSD,SNRI
+2223,51,Male,PTSD,Benzodiazepine
+7055,36,Female,GAD,SNRI
+2215,45,Female,PTSD,SSRI
+7327,66,Female,Panic Disorder,Benzodiazepine
+6147,39,Female,MDD,Benzodiazepine
+5032,20,Female,GAD,SSRI
+5110,69,Male,Panic Disorder,Benzodiazepine
+5095,66,Female,GAD,None
+7459,65,Female,PTSD,Benzodiazepine
+1270,50,Female,MDD,SNRI
+5304,25,Male,GAD,None
+8877,64,Male,Panic Disorder,Benzodiazepine
+3046,55,Female,Panic Disorder,None
+4501,69,Male,Panic Disorder,Benzodiazepine
+8016,30,Female,MDD,SSRI
+2628,65,Female,MDD,Benzodiazepine
+5668,21,Female,None,Benzodiazepine
+8129,20,Male,MDD,None
+4288,40,Female,None,None
+8915,51,Female,None,SSRI
+2136,59,Male,None,SNRI
+8358,64,Male,Panic Disorder,SNRI
+7945,62,Male,GAD,None
+5667,60,Female,GAD,Benzodiazepine
+3273,51,Female,MDD,Benzodiazepine
+6171,34,Female,GAD,SSRI
+8097,36,Male,None,SNRI
+4343,23,Male,PTSD,SSRI
+5621,20,Male,None,Benzodiazepine
+8660,59,Female,Panic Disorder,None
+6671,30,Female,Panic Disorder,None
+3681,38,Male,Panic Disorder,SSRI
+5223,52,Male,None,None
+5004,67,Male,PTSD,Benzodiazepine
+3301,70,Female,PTSD,None
+4273,66,Male,Panic Disorder,SSRI
+9156,50,Male,PTSD,None
+9380,64,Female,Panic Disorder,None
+4371,73,Male,MDD,None
+8263,68,Female,GAD,SSRI
+7397,71,Male,Panic Disorder,None
+6472,21,Female,MDD,SNRI
+7301,35,Male,Panic Disorder,Benzodiazepine
+5599,36,Male,MDD,SSRI
+1292,33,Female,Panic Disorder,Benzodiazepine
+4495,30,Female,GAD,Benzodiazepine
+7725,34,Female,PTSD,None
+1673,52,Female,GAD,SNRI
+3343,39,Male,None,Benzodiazepine
+4961,19,Male,None,Benzodiazepine
+9463,32,Male,Panic Disorder,Benzodiazepine
+4244,21,Female,MDD,SNRI
+3805,28,Male,Panic Disorder,None
+8636,25,Male,None,Benzodiazepine
+4336,49,Female,PTSD,None
+5656,57,Male,Panic Disorder,SSRI
+2664,58,Female,Panic Disorder,Benzodiazepine
+8501,25,Female,None,SNRI
+8139,44,Male,PTSD,None
+7195,40,Female,MDD,None
+1312,20,Female,GAD,Benzodiazepine
+3283,19,Female,None,Benzodiazepine
+5638,24,Female,PTSD,SNRI
+3252,51,Female,MDD,SSRI
+6523,52,Female,None,SSRI
+9509,29,Female,Panic Disorder,Benzodiazepine
+4378,62,Female,PTSD,None
+2319,51,Male,Panic Disorder,SNRI
+3955,56,Male,PTSD,None
+4940,35,Female,GAD,SNRI
+7428,28,Male,MDD,None
+5103,39,Female,GAD,Benzodiazepine
+3411,55,Female,Panic Disorder,None
+3408,33,Female,GAD,SSRI
+9715,32,Male,MDD,None
+8770,60,Female,Panic Disorder,SSRI
+3405,30,Female,GAD,Benzodiazepine
+9763,38,Male,GAD,SSRI
+2690,26,Female,MDD,SNRI
+7500,54,Female,None,Benzodiazepine
+4314,38,Male,PTSD,None
+8117,25,Male,MDD,None
+7212,27,Female,GAD,SSRI
+2516,48,Male,None,SNRI
+3172,40,Male,Panic Disorder,None
+2143,24,Male,MDD,SSRI
+2810,19,Male,None,Benzodiazepine
+5990,54,Male,GAD,SNRI
+4104,28,Female,None,SNRI
+3065,31,Male,Panic Disorder,SNRI
+4315,36,Male,GAD,SSRI
+2070,53,Male,GAD,None
+4090,63,Male,MDD,None
+6251,28,Male,MDD,Benzodiazepine
+5089,44,Male,MDD,SSRI
+2145,42,Male,None,None
+2571,51,Female,None,SNRI
+6620,48,Male,PTSD,SNRI
+7433,49,Female,GAD,SSRI
+6502,56,Female,PTSD,SSRI
+8499,60,Male,GAD,SSRI
+1345,46,Female,GAD,SNRI
+5388,70,Female,None,None
+9791,51,Female,MDD,Benzodiazepine
+8860,25,Female,GAD,SNRI
+6192,19,Female,Panic Disorder,Benzodiazepine
+9296,72,Female,Panic Disorder,None
+9787,23,Male,Panic Disorder,Benzodiazepine
+4917,35,Female,None,Benzodiazepine
+5262,60,Female,None,None
+8514,46,Female,None,Benzodiazepine
+4074,39,Female,Panic Disorder,SSRI
+9399,45,Male,GAD,Benzodiazepine
+2952,25,Male,Panic Disorder,SSRI
+9956,70,Male,PTSD,None
+8278,22,Female,MDD,SSRI
+8672,31,Male,MDD,Benzodiazepine
+3681,47,Female,None,Benzodiazepine
+6016,70,Male,PTSD,SSRI
+9152,72,Female,GAD,None
+8594,20,Female,MDD,Benzodiazepine
+7540,66,Male,Panic Disorder,SSRI
+2533,51,Female,MDD,None
+9938,33,Male,GAD,Benzodiazepine
+1997,62,Male,PTSD,Benzodiazepine
+4323,33,Male,GAD,Benzodiazepine
+9241,53,Male,Panic Disorder,Benzodiazepine
+8641,52,Male,PTSD,SSRI
+4269,32,Female,GAD,SSRI
+5818,47,Male,Panic Disorder,SNRI
+7338,32,Female,MDD,SSRI
+2969,72,Female,Panic Disorder,SNRI
+5325,21,Female,None,None
+8338,28,Female,GAD,Benzodiazepine
+8360,20,Male,PTSD,SSRI
+8388,75,Female,Panic Disorder,SNRI
+4481,50,Female,GAD,Benzodiazepine
+6467,71,Male,MDD,None
+1609,75,Male,PTSD,SSRI
+7470,72,Female,None,SSRI
+3020,64,Female,PTSD,SSRI
+5152,51,Male,Panic Disorder,None
+2589,60,Female,MDD,None
+9547,53,Male,GAD,None
+7353,18,Male,None,None
+7595,71,Female,MDD,SNRI
+7289,33,Male,None,None
+6982,64,Male,Panic Disorder,SSRI
+8211,40,Male,MDD,Benzodiazepine
+4202,44,Female,None,SNRI
+3849,29,Female,PTSD,Benzodiazepine
+7609,35,Male,MDD,SSRI
+7389,24,Male,MDD,Benzodiazepine
+4568,52,Male,None,SSRI
+7233,50,Female,GAD,SSRI
+7413,47,Male,MDD,SSRI
+2326,24,Female,MDD,SSRI
+3936,46,Male,MDD,Benzodiazepine
+6829,40,Female,None,SNRI
+1190,35,Female,Panic Disorder,None
+2063,28,Female,None,SSRI
+3873,49,Female,GAD,SNRI
+5537,46,Female,PTSD,SNRI
+2995,45,Male,Panic Disorder,SSRI
+1503,50,Male,Panic Disorder,SNRI
+3881,18,Male,None,None
+9336,40,Male,None,SNRI
+9837,44,Female,MDD,SSRI
+8880,46,Male,None,SNRI
+3955,41,Female,Panic Disorder,Benzodiazepine
+8085,47,Male,MDD,SNRI
+5272,55,Female,GAD,SNRI
+8885,41,Female,Panic Disorder,SNRI
+5759,57,Female,PTSD,Benzodiazepine
+8406,33,Female,Panic Disorder,SNRI
+7648,54,Male,PTSD,None
+1518,42,Male,PTSD,None
+9392,70,Male,None,SSRI
+9194,24,Female,Panic Disorder,None
+2743,57,Male,None,SNRI
+5933,21,Male,PTSD,SNRI
+6801,44,Female,MDD,Benzodiazepine
+5505,21,Male,Panic Disorder,SSRI
+6381,35,Male,PTSD,None
+9598,36,Female,MDD,SNRI
+5431,68,Male,PTSD,SNRI
+9690,65,Male,GAD,SNRI
+9187,45,Female,Panic Disorder,None
+2710,58,Female,None,SSRI
+9616,39,Female,MDD,SNRI
+5427,21,Male,PTSD,SSRI
+5563,36,Female,MDD,SSRI
+9426,46,Female,Panic Disorder,None
+9252,36,Male,GAD,SNRI
+6439,31,Female,PTSD,None
+6269,40,Female,GAD,SSRI
+8462,59,Male,Panic Disorder,SNRI
+1685,29,Female,MDD,Benzodiazepine
+2507,20,Female,None,SSRI
+3701,61,Female,GAD,SNRI
+4176,39,Male,PTSD,Benzodiazepine
+4817,57,Male,PTSD,Benzodiazepine
+3329,18,Male,Panic Disorder,None
+7210,68,Male,MDD,Benzodiazepine
+3796,71,Male,GAD,Benzodiazepine
+5225,18,Male,GAD,SNRI
+5788,20,Male,PTSD,SNRI
+2515,29,Female,MDD,SNRI
+2295,71,Female,None,SNRI
+6638,50,Female,None,None
+9163,67,Female,GAD,None
+3399,49,Female,GAD,None
+4355,46,Male,Panic Disorder,None
+3775,29,Male,PTSD,None
+6800,69,Male,Panic Disorder,SSRI
+9019,42,Female,None,None
+1823,75,Male,MDD,SNRI
+5667,39,Female,None,None
+1975,70,Male,GAD,None
+5783,51,Female,GAD,Benzodiazepine
+5757,56,Female,PTSD,Benzodiazepine
+3535,53,Female,None,SNRI
+7186,26,Male,Panic Disorder,SSRI
+2372,31,Female,None,None
+2201,53,Female,GAD,Benzodiazepine
+7622,65,Male,None,None
+8459,70,Female,GAD,Benzodiazepine
+5553,57,Male,GAD,None
+1120,69,Male,GAD,SNRI
+2018,31,Male,None,SSRI
+6175,18,Male,PTSD,SNRI
+4472,55,Male,None,SNRI
+3690,61,Female,None,None
+9151,57,Male,Panic Disorder,None
+4576,35,Female,Panic Disorder,Benzodiazepine
+7510,44,Male,Panic Disorder,None
+7178,60,Male,GAD,SSRI
+8404,72,Female,GAD,SNRI
+6921,66,Male,Panic Disorder,Benzodiazepine
+7737,32,Female,PTSD,SSRI
+1656,21,Female,MDD,SNRI
+3999,53,Female,None,SNRI
+7507,74,Female,GAD,SNRI
+8232,40,Male,GAD,SSRI
+3549,48,Female,PTSD,Benzodiazepine
+3508,29,Female,Panic Disorder,None
+2000,60,Male,GAD,Benzodiazepine
+3069,54,Female,GAD,Benzodiazepine
+5116,54,Male,GAD,SSRI
+7323,43,Female,None,Benzodiazepine
+6843,51,Female,MDD,SSRI
+4504,63,Male,MDD,None
+3181,47,Male,Panic Disorder,None
+9414,27,Female,Panic Disorder,None
+4350,28,Male,Panic Disorder,Benzodiazepine
+7623,54,Male,Panic Disorder,Benzodiazepine
+4058,48,Male,PTSD,None
+2368,24,Male,GAD,None
+6166,65,Female,None,SSRI
+2008,75,Male,MDD,SNRI
+3556,71,Male,PTSD,Benzodiazepine
+7989,55,Female,GAD,SNRI
+1803,66,Male,MDD,None
+3761,28,Female,None,None
+3771,65,Female,PTSD,Benzodiazepine
+5630,42,Female,PTSD,None
+3101,31,Male,GAD,SSRI
+3182,52,Female,MDD,SSRI
+8946,64,Female,MDD,None
+6187,30,Male,GAD,Benzodiazepine
+3194,36,Female,MDD,SNRI
+6283,46,Male,Panic Disorder,SSRI
+9496,34,Male,GAD,Benzodiazepine
+9807,60,Female,GAD,SSRI
+3280,48,Male,GAD,Benzodiazepine
+9814,70,Male,None,SSRI
+2903,37,Male,MDD,Benzodiazepine
+1792,38,Female,Panic Disorder,SSRI
+6783,68,Female,PTSD,SNRI
+5087,22,Female,None,SNRI
+6660,24,Female,MDD,SNRI
+3264,73,Male,GAD,Benzodiazepine
+7447,39,Male,None,SNRI
+4904,48,Female,GAD,Benzodiazepine
+7660,35,Male,GAD,Benzodiazepine
+1300,57,Male,GAD,None
+2054,50,Female,None,SNRI
+9685,33,Female,PTSD,Benzodiazepine
+9256,60,Female,PTSD,SNRI
+6880,54,Female,MDD,None
+4654,41,Female,Panic Disorder,None
+6016,40,Male,MDD,Benzodiazepine
+6228,56,Female,PTSD,SSRI
+3767,67,Female,None,Benzodiazepine
+2267,75,Male,PTSD,SNRI
+2546,27,Male,Panic Disorder,SNRI
+5818,23,Female,Panic Disorder,Benzodiazepine
+1309,48,Male,PTSD,SSRI
+6184,50,Female,Panic Disorder,Benzodiazepine
+2588,73,Male,Panic Disorder,SNRI
+6922,45,Male,Panic Disorder,Benzodiazepine
+7702,65,Male,GAD,SNRI
+2965,47,Male,MDD,Benzodiazepine
+5215,74,Male,MDD,None
+5654,18,Female,MDD,SSRI
+5228,29,Female,MDD,Benzodiazepine
+3839,34,Male,PTSD,None
+2613,38,Male,None,None
+6486,27,Female,PTSD,SSRI
+4990,42,Female,PTSD,None
+6386,19,Male,MDD,None
+5796,71,Female,PTSD,None
+7946,60,Male,GAD,SSRI
+4463,44,Female,None,SNRI
+7037,36,Male,PTSD,SSRI
+1539,63,Female,Panic Disorder,None
+6164,18,Female,PTSD,SNRI
+7693,54,Male,PTSD,Benzodiazepine
+1645,71,Female,PTSD,SSRI
+3273,49,Female,GAD,SNRI
+3244,66,Female,PTSD,Benzodiazepine
+3089,46,Male,Panic Disorder,Benzodiazepine
+6033,49,Female,None,SSRI
+3388,74,Male,None,SNRI
+6048,56,Male,PTSD,SNRI
+8885,41,Female,PTSD,Benzodiazepine
+5941,73,Female,GAD,SSRI
+3071,27,Male,Panic Disorder,None
+6945,58,Male,MDD,Benzodiazepine
+4867,46,Female,MDD,SSRI
+7040,36,Female,GAD,SNRI
+3133,52,Male,GAD,SNRI
+6673,32,Male,PTSD,SSRI
+1060,24,Male,GAD,SSRI
+1605,64,Female,GAD,SNRI
+9245,57,Female,None,SNRI
+1058,70,Female,PTSD,SNRI
+8687,63,Male,Panic Disorder,None
+2306,60,Male,GAD,None
+4924,48,Male,PTSD,None
+6254,70,Female,MDD,SSRI
+8182,65,Male,PTSD,Benzodiazepine
+8969,52,Female,Panic Disorder,Benzodiazepine
+6195,58,Male,None,SNRI
+3231,37,Male,None,Benzodiazepine
+4720,24,Male,Panic Disorder,None
+5455,62,Male,MDD,SNRI
+9592,74,Female,GAD,SSRI
+2906,73,Male,MDD,SSRI
+6415,29,Male,GAD,SSRI
+2553,56,Male,None,SSRI
+5069,54,Male,None,SSRI
+6047,18,Female,Panic Disorder,SSRI
+5246,39,Female,MDD,None
+3520,70,Female,GAD,SSRI
+2351,46,Male,PTSD,Benzodiazepine
+1918,50,Female,Panic Disorder,SNRI
+8229,64,Male,None,SNRI
+2312,26,Female,Panic Disorder,SNRI
+4587,44,Female,GAD,Benzodiazepine
+7311,74,Female,None,None
+3506,24,Female,MDD,Benzodiazepine
+4940,59,Female,PTSD,Benzodiazepine
+6970,42,Male,MDD,Benzodiazepine
+1175,42,Female,None,None
+4922,51,Male,PTSD,Benzodiazepine
+4577,29,Male,MDD,None
+8853,54,Female,PTSD,Benzodiazepine
+4264,39,Female,MDD,SSRI
+4498,62,Female,MDD,SNRI
+4298,62,Male,Panic Disorder,SNRI
+4315,71,Female,Panic Disorder,None
+5703,69,Female,None,Benzodiazepine
+4571,58,Female,GAD,SSRI
+8427,66,Female,Panic Disorder,Benzodiazepine
+6233,73,Male,None,None
+9093,35,Male,PTSD,SSRI
+4298,28,Male,PTSD,Benzodiazepine
+6751,45,Male,MDD,None
+3812,65,Female,MDD,SSRI
+5291,29,Female,GAD,Benzodiazepine
+5954,66,Female,PTSD,SNRI
+2698,32,Female,GAD,None
+1523,19,Female,None,None
+2175,27,Female,MDD,SSRI
+3332,35,Female,MDD,SNRI
+5744,38,Male,Panic Disorder,None
+5328,55,Male,Panic Disorder,SNRI
+5493,61,Male,MDD,Benzodiazepine
+2214,67,Male,MDD,Benzodiazepine
+6991,70,Male,MDD,Benzodiazepine
+2183,60,Male,GAD,SSRI
+8971,48,Female,GAD,None
+6666,47,Female,PTSD,Benzodiazepine
+9409,63,Female,None,Benzodiazepine
+9980,72,Male,GAD,None
+1046,51,Male,None,None
+6419,45,Female,PTSD,Benzodiazepine
+1599,62,Female,None,Benzodiazepine
+7532,20,Male,None,SSRI
+8759,19,Female,PTSD,SNRI
+7076,50,Female,None,Benzodiazepine
+8197,20,Male,MDD,SNRI
+1439,37,Female,Panic Disorder,SNRI
+8746,43,Male,MDD,SSRI
+8335,20,Female,PTSD,None
+2729,39,Female,MDD,Benzodiazepine
+3489,53,Female,Panic Disorder,SNRI
+6628,55,Male,MDD,None
+1815,27,Male,GAD,None
+4364,64,Female,PTSD,SSRI
+4729,57,Female,GAD,None
+1048,74,Male,Panic Disorder,SSRI
+6345,33,Male,MDD,Benzodiazepine
+3640,68,Male,Panic Disorder,SSRI
+1791,25,Female,GAD,SNRI
+2190,18,Female,PTSD,SSRI
+9805,70,Female,PTSD,None
+9012,41,Female,Panic Disorder,SNRI
+3723,22,Male,Panic Disorder,SSRI
+6568,36,Female,PTSD,SNRI
+3495,18,Female,MDD,SNRI
+5423,37,Female,None,SNRI
+7336,58,Female,MDD,SNRI
+5020,36,Female,None,Benzodiazepine
+8765,74,Male,Panic Disorder,SSRI
+1630,64,Male,MDD,None
+6967,71,Female,None,SSRI
+5138,44,Male,Panic Disorder,Benzodiazepine
+8693,18,Female,GAD,SNRI
+7092,20,Female,None,None
+2184,32,Male,MDD,SNRI
+4659,26,Male,GAD,Benzodiazepine
+9257,49,Male,PTSD,Benzodiazepine
+2325,49,Female,GAD,Benzodiazepine
+8096,20,Male,PTSD,None
+4245,62,Male,PTSD,Benzodiazepine
+9900,32,Female,Panic Disorder,SSRI
+7406,65,Female,None,None
+2249,56,Female,GAD,Benzodiazepine
+8631,55,Male,Panic Disorder,SSRI
+6070,55,Female,Panic Disorder,None
+3902,64,Female,MDD,SSRI
+3307,27,Male,GAD,SNRI
+8028,58,Male,None,Benzodiazepine
+8390,25,Male,Panic Disorder,SNRI
+7384,46,Male,Panic Disorder,None
+4541,74,Female,MDD,None
+8410,57,Female,GAD,None
+9013,75,Female,None,SSRI
+1017,42,Female,GAD,Benzodiazepine
+7878,20,Female,GAD,SNRI
+7764,19,Female,PTSD,SNRI
+4476,23,Female,PTSD,SNRI
+9561,24,Female,Panic Disorder,None
+3419,62,Female,Panic Disorder,SNRI
+9147,67,Female,PTSD,SSRI
+8512,31,Female,Panic Disorder,SNRI
+5037,25,Female,Panic Disorder,Benzodiazepine
+2492,20,Male,Panic Disorder,SNRI
+6708,58,Female,PTSD,SNRI
+8451,52,Female,MDD,None
+8854,40,Female,MDD,SNRI
+1819,58,Female,None,SNRI
+5657,72,Male,MDD,SNRI
+5374,38,Male,MDD,SSRI
+5013,19,Female,GAD,SSRI
+6089,40,Male,None,Benzodiazepine
+3808,37,Female,GAD,Benzodiazepine
+2221,18,Male,None,SNRI
